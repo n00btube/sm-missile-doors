@@ -17,10 +17,9 @@ to make super missiles _add five strikes_ to the counter instead.
 
 Makes super missiles do nothing when hitting a red door.
 
-This is _almost_ hex tweak territory,
-since it’s “write 8 bytes at address X” and uses no free space,
-but I do everything as ASM already.
-Why stop now?
+No free space used (I am, for once, _removing_ code instead of adding.)
+
+There exists a hex tweak for this, found by JAM, but this was fun.
 
 # Credits
 
